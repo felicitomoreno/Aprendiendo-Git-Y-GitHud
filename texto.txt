@@ -1,0 +1,3 @@
+Este es un texto para probar git,
+primero fue el uno y luego el dos,
+antes de eso existia el cero y las deudas
