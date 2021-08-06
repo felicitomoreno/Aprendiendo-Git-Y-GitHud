@@ -1,6 +1,22 @@
 body{
-    background: gray;
+    background: rgba(255, 255, 255, 0.2);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: indigo;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   
+    align-items: center; 
+    margin: 0;
+}
+.header{
+    padding: 8px;
+    border: blue 1px solid;
+    outline: black 1px solid;
+    margin: 5px;
+}
+body > div{
+    padding: 8px;
+    border: blue 1px solid;
+    outline: black 1px solid;
+    margin: 5px;
 }
