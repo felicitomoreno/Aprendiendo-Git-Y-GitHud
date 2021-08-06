@@ -9,10 +9,13 @@ body{
     margin: 0;
 }
 .header{
-    padding: 8px;
+    padding: 10px;
     border: blue 1px solid;
     outline: black 1px solid;
     margin: 5px;
+}
+.header > p{
+    margin: 0;
 }
 body > div{
     padding: 8px;
