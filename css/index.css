@@ -1,9 +1,11 @@
 body{
-    background: gray;
+    background: rgba(255, 255, 255, 0.2);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: indigo;
-    text-align: center;
-
+    text-align: center;    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .footer{
     margin: 5px;
