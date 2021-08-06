@@ -1,3 +1,10 @@
 Este es un texto para probar git,
 primero fue el uno y luego el dos,
 antes de eso existia el cero y las deudas
+
+nuevo comentario.
+
+son más de las 9 y media, quiero acabar al menos
+la sección en la que estoy de Platzi.
+
+mañana tengo clases a las 8am y termino a las 6pm.
