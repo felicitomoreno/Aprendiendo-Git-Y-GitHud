@@ -3,4 +3,17 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: indigo;
     text-align: center;
+
+}
+.footer{
+    margin: 5px;
+    display: flex;
+    outline: black solid 1px;
+    border:blue solid 1px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer > li{
+    list-style: none;
 }
