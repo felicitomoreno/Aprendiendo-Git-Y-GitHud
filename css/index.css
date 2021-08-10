@@ -1,11 +1,12 @@
 body{
-    background: gray;
+    background: #352d39;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: indigo;
     text-align: center;    
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 .footer{
     margin: 5px;
@@ -29,6 +30,14 @@ body{
     border: blue 1px solid;
     outline: black 1px solid;
     margin: 5px;
+    width: 400px;
+    background: #FF6978;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.header > img{
+    width: 80px;
 }
 .header > p{
     margin: 0;
@@ -38,4 +47,5 @@ body > div{
     border: blue 1px solid;
     outline: black 1px solid;
     margin: 5px;
+    background: #b1ede8;
 }
