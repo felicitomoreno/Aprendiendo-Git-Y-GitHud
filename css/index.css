@@ -3,10 +3,16 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: indigo;
     text-align: center;    
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+}
+#father{
+border: white 1px solid;
+border-radius: 40px;
+padding: 2px;
+height: 300px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;    
 }
 .footer{
     margin: 5px;
@@ -42,7 +48,7 @@ body{
 .header > p{
     margin: 0;
 }
-body > div{
+body > section > div{
     padding: 8px;
     border: blue 1px solid;
     outline: black 1px solid;
