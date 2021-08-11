@@ -1,7 +1,7 @@
 body{
     background: #352d39;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
+    font-family:monospace;
+    color: #352d39;
     text-align: center;    
 }
 #father{
@@ -17,11 +17,14 @@ align-items: center;
 .footer{
     margin: 5px;
     display: flex;
-    outline: black solid 1px;
+    outline: black solid 2px;
     border:#F08080 solid 1px;
-    padding: 5px;
+    padding: 10px;
     display: flex;
     justify-content: space-around;
+    background: #DECCCC;
+    width: 420px;
+    letter-spacing: 1px;
 }
 .footer > li{
     list-style: none;
@@ -32,11 +35,11 @@ align-items: center;
     margin: 0;
 }
 .header{
-    padding: 10px;
+    padding: 8px;
     border: #F08080 1px solid;
-    outline: black 1px solid;
+    outline: black 2px solid;
     margin: 5px;
-    width: 400px;
+    width: 350px;
     background: #FF6978;
     display: flex;
     align-items: center;
@@ -55,7 +58,7 @@ body > section > div{
     margin: 5px;
     padding: 20px;
     border: #F08080 1px solid;
-    outline: rgb(78, 66, 66) 1px solid;
+    outline: black 2px solid;
     margin: px;
     background: #b1ede8;
     width: 300px;
