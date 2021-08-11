@@ -63,3 +63,9 @@ body > section > div{
     background: #b1ede8;
     width: 300px;
 }
+.footer__below{
+    background: wheat;
+    border: #F08080 1px solid;
+    outline: black 2px solid;
+    padding: 5px;
+}
