@@ -1,7 +1,7 @@
 body{
     background: #352d39;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: yellowgreen;
+    color: white;
     text-align: center;    
     display: flex;
     flex-direction: column;
@@ -12,7 +12,7 @@ body{
     margin: 5px;
     display: flex;
     outline: black solid 1px;
-    border:blue solid 1px;
+    border:#F08080 solid 1px;
     padding: 5px;
     display: flex;
     justify-content: space-around;
@@ -27,7 +27,7 @@ body{
 }
 .header{
     padding: 10px;
-    border: blue 1px solid;
+    border: #F08080 1px solid;
     outline: black 1px solid;
     margin: 5px;
     width: 400px;
@@ -43,9 +43,11 @@ body{
     margin: 0;
 }
 body > div{
-    padding: 8px;
-    border: blue 1px solid;
-    outline: black 1px solid;
-    margin: 5px;
+    padding: 20px;
+    border: #F08080 1px solid;
+    outline: rgb(78, 66, 66) 1px solid;
+    margin: px;
     background: #b1ede8;
+    width: 300px;
+    
 }
