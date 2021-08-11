@@ -1,7 +1,7 @@
 body{
     background: #352d39;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: indigo;
+    color: white;
     text-align: center;    
 }
 #father{
@@ -18,7 +18,7 @@ align-items: center;
     margin: 5px;
     display: flex;
     outline: black solid 1px;
-    border:blue solid 1px;
+    border:#F08080 solid 1px;
     padding: 5px;
     display: flex;
     justify-content: space-around;
@@ -33,7 +33,7 @@ align-items: center;
 }
 .header{
     padding: 10px;
-    border: blue 1px solid;
+    border: #F08080 1px solid;
     outline: black 1px solid;
     margin: 5px;
     width: 400px;
@@ -53,5 +53,10 @@ body > section > div{
     border: blue 1px solid;
     outline: black 1px solid;
     margin: 5px;
+    padding: 20px;
+    border: #F08080 1px solid;
+    outline: rgb(78, 66, 66) 1px solid;
+    margin: px;
     background: #b1ede8;
+    width: 300px;
 }
