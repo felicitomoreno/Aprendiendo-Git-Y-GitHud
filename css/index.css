@@ -2,16 +2,16 @@ body{
     background: #352d39;
     font-family:monospace;
     color: #352d39;
-    text-align: center;    
+    text-align: center;   
 }
 #father{
 border: white 1px solid;
 border-radius: 40px;
-padding: 2px;
-height: 300px;
+padding: 5px;
+height: 320px;
 display: flex;
 flex-direction: column;
-justify-content: center;
+justify-content: space-around;
 align-items: center;    
 }
 .footer{
